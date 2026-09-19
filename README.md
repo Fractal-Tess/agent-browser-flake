@@ -62,4 +62,4 @@ Pass a stable version such as `./scripts/update.sh 0.38.1` to update to a specif
 
 The flake packaging is [MIT](LICENSE). agent-browser is [Apache-2.0 licensed](https://github.com/vercel-labs/agent-browser/blob/main/LICENSE), © Vercel, Inc.
 
-The lockup includes the [Nix snowflake](https://github.com/NixOS/nixos-artwork/tree/master/logo) by Simon Frankau and Tim Cuthbertson ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0)).
+The lockup combines the [agent-browser mark](https://agent-browser.dev/favicon.ico) from Vercel Labs with the [Nix snowflake](https://github.com/NixOS/nixos-artwork/tree/master/logo) by Simon Frankau and Tim Cuthbertson ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0)), resized and arranged here. Vercel and agent-browser are not affiliated with or endorsing this flake.
