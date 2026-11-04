@@ -8,15 +8,15 @@
 }:
 
 let
-  version = "0.41.1";
+  version = "0.41.2";
   sources = {
     x86_64-linux = {
       asset = "agent-browser-linux-x64";
-      hash = "sha256-KokpW2Ld1JeYapqAtS4dvkwfa9aP/eZ+qugu7CIGr2E=";
+      hash = "sha256-xDUfOAL/pSVNjGnyClLi/PVpJcYBb89CA9sloH2BE3k=";
     };
     aarch64-linux = {
       asset = "agent-browser-linux-arm64";
-      hash = "sha256-8LO9qkCr8qURHsCObSQhEKr1YEXvUQjLxjO6zI5Tyhc=";
+      hash = "sha256-ANKR9F4cTVJ7OqCMcMVMfDAw/eB5T41FdaqjyhaA9yg=";
     };
   };
   source = sources.${stdenv.hostPlatform.system};
